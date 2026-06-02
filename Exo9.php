@@ -7,7 +7,7 @@ $user = [
     "actif" => true
 ];
 echo "Nom : " . $user["nom"] . "\n";
-echo "Âge : [" . $user["age"] . " ans\n";
+echo "Âge : " . $user["age"] . " ans\n";
 echo "Email : " . $user["email"] . "\n";
 echo "Rôle : " . $user["role"] . "\n";
 echo "Actif : " . ($user["actif"] ? "Oui" : "Non") . "\n";
