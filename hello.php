@@ -1,7 +1,7 @@
 <?php
 $prenom = "Mandrindra";
 $age = 19;
-$ville = "Antananarivo";
+$ville = "USA";
 $aimeCafe = true;
 
 echo "Je m'appelle $prenom, j'ai $age ans.\n";
